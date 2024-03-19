@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a88de36-5ecf-436a-977e-7ba8c5905459" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-EN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-PT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/adapter/controller/CreateUserHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/adapter/controller/dto/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/adapter/controller/dto/response/CreatedDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/adapter/controller/dto/response/ErrorDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/adapter/repository/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/adapter/service/PasswordEncryptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/core/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/core/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/core/service/PasswordEncryptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/core/usecase/UserUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/infra/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/infra/jpa/SpringJpaUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/infra/jpa/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/princeflaco/template/scf/ct/infra/jpa/entity/UserEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="5a88de36-5ecf-436a-977e-7ba8c5905459" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,7 +215,7 @@
       <workItem from="1710249165109" duration="742000" />
       <workItem from="1710443938795" duration="1115000" />
       <workItem from="1710447227486" duration="4788000" />
-      <workItem from="1710855447228" duration="5295000" />
+      <workItem from="1710855447228" duration="5672000" />
     </task>
     <servers />
   </component>
